@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* NavBar Design  */
+.navLink{
+    color: #000;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+    /* color: #e1e7ed; */
+}
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper {
+    width: 230px
+}
+.css-wf16b5 {
+    width: 200px;
+}
+/*  */
